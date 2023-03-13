@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kanban/static/css/main.5cf533d4.css",
+    "main.js": "/kanban/static/js/main.66ad2844.js",
+    "static/js/331.ff8bda83.chunk.js": "/kanban/static/js/331.ff8bda83.chunk.js",
+    "static/media/Roboto-Regular.ttf": "/kanban/static/media/Roboto-Regular.a8d6ac03c7b96b7acb62.ttf",
+    "index.html": "/kanban/index.html",
+    "main.5cf533d4.css.map": "/kanban/static/css/main.5cf533d4.css.map",
+    "main.66ad2844.js.map": "/kanban/static/js/main.66ad2844.js.map",
+    "331.ff8bda83.chunk.js.map": "/kanban/static/js/331.ff8bda83.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cf533d4.css",
+    "static/js/main.66ad2844.js"
+  ]
+}
